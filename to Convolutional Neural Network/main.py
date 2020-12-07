@@ -40,7 +40,6 @@ from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau, ModelCh
 from tensorflow.keras.optimizers import Adam
 from keras.models import model_from_json
 
-from sklearn.model_selection import train_test_split
 # from sklearn.metrics import plot_confusion_matrix
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import roc_auc_score
